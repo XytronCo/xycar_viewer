@@ -6,7 +6,7 @@ from PyQt5.QtGui import *
 from PyQt5.QtCore import *
 from PyQt5 import uic
 
-form_class = uic.loadUiType("XyController.ui")[0]
+form_class = uic.loadUiType("XyCar_viewer.ui")[0]
 
 class MyWindow(QMainWindow, form_class):
 
@@ -16,7 +16,7 @@ class MyWindow(QMainWindow, form_class):
 
         self.create_exit_sh()
 
-        self.setWindowTitle("Xycar Controler")
+        self.setWindowTitle("XyCar Viewer")
         self.setGeometry(1900,870,210,530)
 
         self.pushButton_all_ON.clicked.connect(self.all_btn_clicked_on)
