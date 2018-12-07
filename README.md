@@ -5,13 +5,13 @@ Table of Contents
 
 [[Xycar Viewer]](#xycar-viewer)
 
-[[1.]{.underline} [Purpose]](#purpose)
+[[1.][Purpose]](#purpose)
 
-[[2.]{.underline} [의존성]](#의존성)
+[[2.][의존성]](#의존성)
 
-[[3.]{.underline} [실행]](#실행)
+[[3.][실행]](#실행)
 
-[[4.]{.underline} [InterFACE]](#interface)
+[[4.][InterFACE]](#interface)
 
 
 
@@ -53,7 +53,7 @@ Purpose
 
 -   리눅스 커널 4.16 버전 설치
 
-> [[http://kernel.ubuntu.com/\~kernel-ppa/mainline/v4.16/]{.underline}](http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.16/)
+> [[http://kernel.ubuntu.com/\~kernel-ppa/mainline/v4.16/]](http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.16/)
 >
 > 위 사이트에서 자신의 컴퓨터에 맞는 아래의 세가지 파일을 다운 받는다.
 
@@ -150,11 +150,9 @@ Purpose
 2)  ./ XyController.sh 명령어를
 ​    입력합니다.
 
-![](media/image5.png){width="3.9229166666666666in"
-height="3.5097222222222224in"}
+![](media/image5.png)
 
-![](media/image6.png){width="6.454861111111111in"
-height="4.7555555555555555in"}
+![](media/image6.png)
 
 부팅이 된지 얼마 안되었다면,
 XyController에 필요한 요소들이 부팅될 때 까지 위 사진처럼 대기 한 후
@@ -165,8 +163,7 @@ InterFACE
 
 1)  INTERFACE
 
-> ![](media/image7.png){width="1.5659722222222223in"
-> height="0.7173611111111111in"}
+> ![](media/image7.png)
 
 2)  버튼
 
@@ -174,8 +171,7 @@ InterFACE
 
 
 
-![](media/image8.png){width="1.5354166666666667in"
-height="0.6944444444444444in"}
+![](media/image8.png)
 
 - Camera
 
@@ -185,8 +181,7 @@ height="0.6944444444444444in"}
 
 
 
-    ![](media/image9.png){width="1.5in"
-    height="0.7006944444444444in"}
+    ![](media/image9.png)
 
 
 
@@ -195,8 +190,7 @@ height="0.6944444444444444in"}
 
 
 
-![](media/image10.png){width="1.51875in"
-height="0.7166666666666667in"}
+![](media/image10.png)
 
 
 
@@ -206,8 +200,7 @@ height="0.7166666666666667in"}
 
 
 
-  ![](media/image11.png){width="1.1979166666666667in"
-  height="1.3395833333333333in"}
+  ![](media/image11.png)
 
 - IMU
 
@@ -216,16 +209,14 @@ height="0.7166666666666667in"}
 
 
 
-![](media/image12.png){width="1.1979166666666667in"
-height="1.3395833333333333in"}
+![](media/image12.png)
 
 - Xycar Viewer
   - 차량의 속도, 핸들 스티어링 데이터를 RViz window를 통하여 출력한다.
 
 
 
-![](media/image13.png){width="1.1979166666666667in"
-height="1.3395833333333333in"}
+![](media/image13.png)
 
 
 
@@ -233,4 +224,3 @@ height="1.3395833333333333in"}
 
     -   전 모듈의 Viewer를 모두 가동/종료한다.
 
-    -
