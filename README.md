@@ -5,13 +5,13 @@ Table of Contents
 
 [[Xycar Viewer]](#xycar-viewer)
 
-[[1.][Purpose]](#purpose)
+[[Purpose]](#purpose)
 
-[[2.][의존성]](#의존성)
+[[의존성]](#의존성)
 
-[[3.][실행]](#실행)
+[[실행]](#실행)
 
-[[4.][InterFACE]](#interface)
+[[InterFACE]](#interface)
 
 
 
