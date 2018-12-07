@@ -180,7 +180,7 @@ InterFACE
 
 
 
-    ![](media/image9.png)
+![](media/image9.png)
 
 
 
@@ -199,7 +199,7 @@ InterFACE
 
 
 
-  ![](media/image11.png)
+![](media/image11.png)
 
 - IMU
 
