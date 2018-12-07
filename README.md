@@ -157,6 +157,9 @@ Purpose
 XyController에 필요한 요소들이 부팅될 때 까지 위 사진처럼 대기 한 후
 프로그램이 실행됩니다.
 
+![](media/image14.png)
+
+
 InterFACE
 ---------
 
