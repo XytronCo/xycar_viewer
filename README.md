@@ -53,9 +53,9 @@ Purpose
 
 -   리눅스 커널 4.16 버전 설치
 
-> [[http://kernel.ubuntu.com/\~kernel-ppa/mainline/v4.16/]](http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.16/)
->
-> 위 사이트에서 자신의 컴퓨터에 맞는 아래의 세가지 파일을 다운 받는다.
+[[http://kernel.ubuntu.com/\~kernel-ppa/mainline/v4.16/]](http://kernel.ubuntu.com/~kernel-ppa/mainline/v4.16/)
+
+위 사이트에서 자신의 컴퓨터에 맞는 아래의 세가지 파일을 다운 받는다.
 
 -   linux-headers-4.16.0-xxx...
 
@@ -70,7 +70,7 @@ Purpose
     쳤을 때 맨 끝에 generic이 나오면 generic을 다운받으면 되고,
     lowlatency가 나오면 lowlatency를 다운받으면 된다.
 
-> 다운 받은 파일들을 차례로 설치 한다.
+다운 받은 파일들을 차례로 설치 한다.
 
 -   dpkg --i linux-headers-4.16.0-xxx...
 
@@ -78,14 +78,14 @@ Purpose
 
 -   dpkg --i linux-image-4.16.0-xxx-generic-xxx...
 
-> 그후 reboot 해주면 uname --r 을 쳤을 때 다음과 같이 나오면 다음과 같이
-> 출력된다.
->
-> ![](media/image4.png)
+그후 reboot 해주면 uname --r 을 쳤을 때 다음과 같이 나오면 다음과 같이
+출력된다.
+
+![](media/image4.png)
 
 -   RealSense SDK 설치
 
-> 아래의 명령을 차례차례 따라한다.
+아래의 명령을 차례차례 따라한다.
 
 -   sudo apt-key adv \--keyserver keys.gnupg.net \--recv-key
     C8B3A55A6F3EFCDE \|\| sudo apt-key adv \--keyserver
@@ -111,7 +111,7 @@ Purpose
 
 -   RealSense ROS Package 설치
 
-> 버전이 많이 나와있는데, 그 중에서도 2.0.3 버전을 설치한다.
+버전이 많이 나와있는데, 그 중에서도 2.0.3 버전을 설치한다.
 
 -   cd \~/Downloads
 
@@ -165,7 +165,7 @@ INTERFACE
 
 1)  INTERFACE
 
-> ![](media/image7.png)
+![](media/image7.png)
 
 2)  버튼
 
