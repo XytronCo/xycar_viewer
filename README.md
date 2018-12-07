@@ -11,7 +11,7 @@ Table of Contents
 
 [[실행]](#실행)
 
-[[InterFACE]](#interface)
+[[INTERFACE]](#interface)
 
 
 
@@ -160,7 +160,7 @@ XyController에 필요한 요소들이 부팅될 때 까지 위 사진처럼 대
 ![](media/image14.png)
 
 
-InterFACE
+INTERFACE
 ---------
 
 1)  INTERFACE
