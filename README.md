@@ -81,8 +81,7 @@ Purpose
 > 그후 reboot 해주면 uname --r 을 쳤을 때 다음과 같이 나오면 다음과 같이
 > 출력된다.
 >
-> ![](media/image4.png){width="3.6569444444444446in"
-> height="0.7013888888888888in"}
+> ![](media/image4.png)
 
 -   RealSense SDK 설치
 
