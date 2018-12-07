@@ -3,15 +3,15 @@ Xycar Viewer
 
 Table of Contents
 
-[[Xycar Viewer]{.underline} 3](#xycar-viewer)
+[[Xycar Viewer]](#xycar-viewer)
 
-[[1.]{.underline} [Purpose]{.underline} 3](#purpose)
+[[1.]{.underline} [Purpose]](#purpose)
 
-[[2.]{.underline} [의존성]{.underline} 3](#의존성)
+[[2.]{.underline} [의존성]](#의존성)
 
-[[3.]{.underline} [실행]{.underline} 5](#실행)
+[[3.]{.underline} [실행]](#실행)
 
-[[4.]{.underline} [InterFACE]{.underline} 6](#interface){#xycar-viewer .ListParagraph}
+[[4.]{.underline} [InterFACE]](#interface)
 
 
 
@@ -37,8 +37,9 @@ Purpose
 
 -   PyQt 5.11 이상의 버전
 
--   ![](media/image1.png){width="6.396725721784777in"
-    height="1.6043908573928258in"}이하의 ROS 패키지
+-   이하의 ROS 패키지
+
+![](media/image1.png)
 
 <!-- -->
 
