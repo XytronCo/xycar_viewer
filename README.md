@@ -39,7 +39,7 @@ Purpose
 
 -   이하의 ROS 패키지
 
-![](media/image1.png)
+![](https://user-images.githubusercontent.com/44761194/49775238-d9466580-fd3a-11e8-8aba-efb131565c42.png)
 
 <!-- -->
 
@@ -81,7 +81,7 @@ Purpose
 그후 reboot 해주면 uname --r 을 쳤을 때 다음과 같이 나오면 다음과 같이
 출력된다.
 
-![](media/image4.png)
+![](https://user-images.githubusercontent.com/44761194/49775244-dea3b000-fd3a-11e8-94d5-40130daca701.png)
 
 -   RealSense SDK 설치
 
@@ -149,15 +149,15 @@ Purpose
 2)  ./ XyController.sh 명령어를
 ​    입력합니다.
 
-![](media/image5.png)
+![](https://user-images.githubusercontent.com/44761194/49775247-e1060a00-fd3a-11e8-8926-12cdf785816b.png)
 
-![](media/image6.png)
+![](https://user-images.githubusercontent.com/44761194/49775250-e400fa80-fd3a-11e8-8d33-f06d539703ca.png)
 
 부팅이 된지 얼마 안되었다면,
 XyController에 필요한 요소들이 부팅될 때 까지 위 사진처럼 대기 한 후
 프로그램이 실행됩니다.
 
-![](media/image14.png)
+![](https://user-images.githubusercontent.com/44761194/49775282-0430b980-fd3b-11e8-8732-3dde07ed885f.png)
 
 
 INTERFACE
@@ -165,7 +165,7 @@ INTERFACE
 
 1)  INTERFACE
 
-![](media/image7.png)
+![](https://user-images.githubusercontent.com/44761194/49775252-e7948180-fd3a-11e8-80bb-60a22e46e17e.png)
 
 2)  버튼
 
@@ -173,7 +173,7 @@ INTERFACE
 
 
 
-![](media/image8.png)
+![](https://user-images.githubusercontent.com/44761194/49775261-ee22f900-fd3a-11e8-8ffc-cdb99a0f6205.png)
 
 - Camera
 
@@ -183,7 +183,7 @@ INTERFACE
 
 
 
-![](media/image9.png)
+![](https://user-images.githubusercontent.com/44761194/49775268-f24f1680-fd3a-11e8-8dbd-11d6c246f701.png)
 
 
 
@@ -192,7 +192,7 @@ INTERFACE
 
 
 
-![](media/image10.png)
+![](https://user-images.githubusercontent.com/44761194/49775270-f5e29d80-fd3a-11e8-8ce6-0e960a066a07.png)
 
 
 
@@ -202,7 +202,7 @@ INTERFACE
 
 
 
-![](media/image11.png)
+![](https://user-images.githubusercontent.com/44761194/49775273-fa0ebb00-fd3a-11e8-8248-2bbca0191551.png)
 
 - IMU
 
@@ -211,14 +211,14 @@ INTERFACE
 
 
 
-![](media/image12.png)
+![](https://user-images.githubusercontent.com/44761194/49775276-fda24200-fd3a-11e8-8278-adf6d77a34a8.png)
 
 - Xycar Viewer
   - 차량의 속도, 핸들 스티어링 데이터를 RViz window를 통하여 출력한다.
 
 
 
-![](media/image13.png)
+![](https://user-images.githubusercontent.com/44761194/49775279-009d3280-fd3b-11e8-8755-b40865692f54.png)
 
 
 
