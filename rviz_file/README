@@ -1,6 +1,0 @@
-현재 위치의 파일들을 모두 아래 지정된 위치에 넣습니다.
-
-pointcloud.rviz  :  ~/xycar/src/realsense2_camera/rviz/
-rplidar.rviz     :  ~/xycar/src/rplidar_ros/rviz/
-xycar.rviz       :  ~/xycar/src/xycar_sim/rviz/
-gui.ini          :  ~/.gazebo
