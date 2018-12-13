@@ -1,0 +1,6 @@
+<launch>
+  <arg name="serial_no"             default=""/>
+  <arg name="json_file_path"        default=""/>
+  <arg name="camera"                default="camera"/>
+    <node name="rviz" pkg="rviz" type="rviz" args="-d $(find realsense2_camera)/rviz/pointcloud.rviz" required="true" />
+</launch>

@@ -71,7 +71,7 @@ class MyWindow(QMainWindow, form_class):
         
     def realsense_btn_clicked(self, pressed):
         package = "realsense2_camera"
-        launch = "demo_pointcloud"
+        launch = "display_realsense"
         kill_name = "pointcloud"
 
         if pressed:
