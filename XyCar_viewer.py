@@ -44,13 +44,13 @@ class MyWindow(QMainWindow, form_class):
         kill_name = "/usb_cam/image_raw" 
    
         if pressed:
-            self.btn_clicked(1, package, launch, rkill_name, self.camera_label)
+            self.btn_clicked(1, package, launch, kill_name, self.camera_label)
         else: 
             self.btn_clicked(0, package, launch, kill_name, self.camera_label)
            
     def imu_btn_clicked(self, pressed):
         package = "razor_imu_9dof"
-        launch = "imu_viwer"
+        launch = "imu_viewer"
         kill_name = "display_3D_visualization"
   
         if pressed:
