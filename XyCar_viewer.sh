@@ -15,7 +15,7 @@ continue
 else
 pwd
 cd $Xycar_path/
-python3 ./XyCar_viewer.py
+python ./XyCar_viewer.py
 break
 fi
 done
